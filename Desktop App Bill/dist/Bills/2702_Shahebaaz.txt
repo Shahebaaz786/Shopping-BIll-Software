@@ -1,0 +1,26 @@
+       Welcome In Shooping Mall...
+     _______________________________
+
+	 Bill Number : 2702
+	 Customer Name : Shahebaaz
+	 Mobile Number : 9172344377
+
+ *************************************
+    Products  	 Quantity 	 Price 
+ *************************************
+
+   Bath Soap      	 7     	 280
+   Rice           	 8     	 320
+   Limca          	 6     	 840
+
+ *************************************
+
+   Cosmetic's Tax     		 Tax=14.0Rs.
+   Grocery's Tax      		 Tax=32.0Rs.
+   Cold Drink's Tax   		 Tax=33.6Rs.
+
+
+ *************************************
+    Total Bill = 		    Rs: 1519.6
+ *************************************
+
